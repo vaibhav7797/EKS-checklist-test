@@ -10,8 +10,7 @@ on:
       - 'markdown/**'
 
 jobs:
-  build:
-
+  deploy:
     runs-on: ubuntu-latest
 
     strategy:
